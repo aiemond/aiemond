@@ -3,6 +3,7 @@
 I'm a learning-obsessed engineering student. Man of many abilities (modest brag): a data science enthusiast, designer, and programmer who learned everything on his own. I also like selling folks outlandish ideas! I also like pitching wacky ideas to folks.
 
   🌱 Currently: I'm studying Deep Learning, analytics engineering and basically how to be a better analyst.
+  
   ⚡ Fun fact: I'm extremely witty (at least sometimes), and I have a thing for mechanical keyboards.
 
 <!--
