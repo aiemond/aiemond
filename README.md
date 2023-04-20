@@ -3,7 +3,7 @@
 I'm a learning-obsessed engineering student. Man of many abilities (modest brag): a data science enthusiast, designer, and programmer who learned everything on his own. I also like selling folks outlandish ideas! I also like pitching wacky ideas to folks.
 
   🌱 Currently: I'm studying dbt, analytics engineering, bayesian statistics, a/b testing, and basically how to be a better analyst. 
-   ⚡ Fun fact: I'm extremely  ⚡  witty (at least sometimes), and I have a thing for mechanical keyboards.
+   ⚡ Fun fact: I'm extremely witty (at least sometimes), and I have a thing for mechanical keyboards.
 
 <!--
 **aiemond/aiemond** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
