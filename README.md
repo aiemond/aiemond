@@ -1,9 +1,8 @@
 ### Hello 👋
 
-I'm an engineering student that loves to learn. Man of many talents (humble brag): A self taught designer, programmer and data science enthusiast. I also love selling people crazy ideas!
+I'm a learning-obsessed engineering student. Man of many abilities (modest brag): a data science enthusiast, designer, and programmer who learned everything on his own. I also like selling folks outlandish ideas! I also like pitching wacky ideas to folks.
 
-🌱 I’m currently learning - dbt, analytics engineering, bayesian statistics, a/b testing and just being a better analyst.
-⚡ Fun fact: I have a thing for mechanical keyboards - an obsession really and I'm super funny (at least some times)!
+🌱 Currently, I'm studying dbt, analytics engineering, bayesian statistics, a/b testing, and basically how to be a better analyst. Fun fact: I'm extremely  ⚡  witty (at least sometimes), and I have a thing for mechanical keyboards.
 
 <!--
 **aiemond/aiemond** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
