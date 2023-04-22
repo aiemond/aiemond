@@ -6,12 +6,21 @@ I'm a learning-obsessed engineering student. Man of many abilities (modest brag)
   
   ⚡ Fun fact: I'm extremely witty (at least sometimes), and I have a thing for mechanical keyboards.
 
-Machine/Deep Learning Tools & Methods using PyTorch:
- - Implementation of gradient descent and PyTorch built-in functions for improving the efficiency of training a linear regression model.
- - Operate with images in PyTorch using different datasets, covering the steps of dataset splitting, creating PyTorch models, interpreting model outputs,      selecting evaluation metrics, setting up a training loop with validation, testing the model, and saving/loading model checkpoints.
- - The ReLU activation function to introduce non-linearity into the model, allowing it to learn more complex relationships between the inputs (pixel          densities) and outputs (class probabilities).
- - Carrying out the CIFAR10 dataset for image classification, display batches of images in a grid using torchvision and create a convolutional neural          network using (nn.Conv2d) and (nn.MaxPool2d) layers.
- - Training to Generative Adversarial Networks (GANs) in PyTorch.
+Machine/Deep Learning Tools & Methods using PyTorch & TensorFlow :
+ - Implementation of gradient descent and built-in functions for improving the efficiency of training a linear regression model.
+ - Operate with images using different datasets, covering the steps of dataset splitting, creating models, interpreting model outputs, selecting            evaluation metrics, setting up a training loop with validation, testing the model, and saving/loading model checkpoints.
+ - The ReLU activation function to introduce non-linearity into the model, allowing it to learn more complex relationships between the inputs (pixel        densities) and outputs (class probabilities).
+ - Carrying out the CIFAR10 dataset for image classification, display batches of images in a grid and create a convolutional neural network.
+ - Training to Generative Adversarial Networks (GANs).
+ - Music Generation with RNNs (Recurrent Neural Networks).
+
+
+Deep Learning Projects in NLP (Natural Language Processing):
+ - Social Media sentiment analysis using NLTK (Natural Language Toolkit) for NaiveBayes Classifier.
+ - Amazon reviews sentiment analysis using VADER (Valence Aware Dictionary and sEntiment Reasoner).
+ - RoBERTa (Robustly Optimized BERT Pre-Training Approach) to predict and analyse overall sentiment.
+ - The Transformers Pipeline to predict possible outcomes from Huggingface Pipeline of input text dataset.
+ 
 <!--
 **aiemond/aiemond** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
