@@ -6,6 +6,12 @@ I'm a learning-obsessed engineering student. Man of many abilities (modest brag)
   
   ⚡ Fun fact: I'm extremely witty (at least sometimes), and I have a thing for mechanical keyboards.
 
+Machine/Deep Learning Tools & Methods using PyTorch:
+ - Implementation of gradient descent and PyTorch built-in functions for improving the efficiency of training a linear regression model.
+ - Operate with images in PyTorch using different datasets, covering the steps of dataset splitting, creating PyTorch models, interpreting model outputs,      selecting evaluation metrics, setting up a training loop with validation, testing the model, and saving/loading model checkpoints.
+ - The ReLU activation function to introduce non-linearity into the model, allowing it to learn more complex relationships between the inputs (pixel          densities) and outputs (class probabilities).
+ - Carrying out the CIFAR10 dataset for image classification, display batches of images in a grid using torchvision and create a convolutional neural          network using (nn.Conv2d) and (nn.MaxPool2d) layers.
+ - Training to Generative Adversarial Networks (GANs) in PyTorch.
 <!--
 **aiemond/aiemond** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
