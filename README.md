@@ -24,7 +24,7 @@ Deep Learning Projects in NLP (Natural Language Processing):
 
 
 
- - 📫 How to reach me: www.linkedin.com/in/ashik-emon-44042019a
+📫 How to reach me: www.linkedin.com/in/ashik-emon-44042019a
 
 <!--
 **aiemond/aiemond** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
