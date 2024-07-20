@@ -21,7 +21,11 @@ Deep Learning Projects in NLP (Natural Language Processing):
  - Amazon reviews sentiment analysis using VADER (Valence Aware Dictionary and sEntiment Reasoner).
  - RoBERTa (Robustly Optimized BERT Pre-Training Approach) to predict and analyse overall sentiment.
  - The Transformers Pipeline to predict possible outcomes from Huggingface Pipeline of input text dataset.
- 
+
+
+
+ - 📫 How to reach me: www.linkedin.com/in/ashik-emon-44042019a
+
 <!--
 **aiemond/aiemond** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
